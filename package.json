@@ -1,6 +1,7 @@
 {
   "name": "buscarte",
   "private": true,
+  "engines": { "node": ">=20" },
   "version": "0.1.0",
   "type": "module",
   "description": "Buscarte — marketplace para contratar artistas en CDMX (MVP frontend con datos simulados)",
